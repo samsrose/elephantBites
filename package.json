@@ -1,0 +1,13 @@
+{
+  "name": "elephantBites",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/samsrose/elephantBites.git",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.3"
+  }
+}
